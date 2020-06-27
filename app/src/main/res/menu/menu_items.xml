@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group>
+
+        <item android:title="General">
+        <menu>
+
+        <item
+            android:id="@+id/homee"
+            android:icon="@drawable/ic_baseline_home_241"
+            android:title="Home"/>
+
+        <item
+            android:id="@+id/state"
+            android:icon="@drawable/ic_baseline_flag_241"
+            android:title="Indian States Cases"/>
+
+            <item
+                android:id="@+id/city"
+                android:icon="@drawable/ic_baseline_location_city_24"
+                android:title="Indian Cities Cases"/>
+
+        </menu>
+        </item>
+
+        <item android:title="News">
+        <menu>
+
+
+        <item
+            android:id="@+id/cnews"
+            android:icon="@drawable/ic_baseline_open_in_new_24"
+            android:title="Covid-19 Related News"/>
+
+        <item
+            android:id="@+id/news"
+            android:icon="@drawable/ic_baseline_new_releases_24"
+            android:title="Other News"/>
+        </menu></item>
+
+        <item android:title="Communicate">
+        <menu>
+
+        <item
+            android:id="@+id/web"
+            android:icon="@drawable/ic_baseline_assignment_ind_24"
+            android:title="Go to my Linkedin Profile"/>
+
+        <item
+            android:id="@+id/myProfile"
+            android:icon="@drawable/ic_baseline_person_241"
+            android:title="About Me"/>
+
+        </menu></item>
+
+
+
+
+    </group>
+
+</menu>
