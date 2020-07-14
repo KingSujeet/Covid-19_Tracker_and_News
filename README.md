@@ -12,3 +12,17 @@ https://documenter.getpostman.com/view/8854915/SzS7R6uu?version=latest
 <hr>
 
 <h3>✔<b>Dependencies</b> --</h3>
+<p>
+    dependencies {<br><br>
+  
+      implementation 'com.github.blackfizz:eazegraph:1.2.5l@aar'<br>
+      implementation 'com.nineoldandroids:library:2.4.0'<br>
+      implementation 'com.android.volley:volley:1.1.1'<br>
+      implementation 'com.leo.simplearcloader:simplearcloader:1.0.+'<br>
+      implementation 'com.github.bumptech.glide:glide:4.11.0'<br>
+      annotationProcessor 'com.github.bumptech.glide:compiler:4.11.0'<br>
+
+      ----//------
+}
+
+</p>
