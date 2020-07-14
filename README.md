@@ -11,7 +11,7 @@ https://documenter.getpostman.com/view/8854915/SzS7R6uu?version=latest
 
 <hr>
 
-<h3>✔<b>Dependencies</b> --</h3>
+<h3>✔ <b>Dependencies</b> --</h3>
 <p>
     dependencies {<br><br>
   
@@ -26,3 +26,40 @@ https://documenter.getpostman.com/view/8854915/SzS7R6uu?version=latest
 }
 
 </p>
+
+<hr>
+
+<h3>📱 <b>Screenshots</b> --</h3>
+<br>
+
+<img src="https://github.com/KingSujeet/Covid-19_Tracker_and_News/blob/master/WhatsApp%20Image%202020-07-14%20at%203.49.42%20PM.jpeg" width="250">
+<br><br>
+
+
+
+<img src="https://github.com/KingSujeet/Covid-19_Tracker_and_News/blob/master/WhatsApp%20Image%202020-07-14%20at%203.49.42%20PM%20(1).jpeg" width="250">
+<br><br>
+
+
+
+<img src="https://github.com/KingSujeet/Covid-19_Tracker_and_News/blob/master/WhatsApp%20Image%202020-07-14%20at%203.49.42%20PM%20(2).jpeg" width="250">
+<br><br>
+
+
+
+<img src="https://github.com/KingSujeet/Covid-19_Tracker_and_News/blob/master/WhatsApp%20Image%202020-07-14%20at%203.49.42%20PM%20(3).jpeg" width="250">
+<br><br>
+
+
+
+<img src="https://github.com/KingSujeet/Covid-19_Tracker_and_News/blob/master/WhatsApp%20Image%202020-07-14%20at%203.49.42%20PM%20(4).jpeg" width="250">
+
+
+<img src="https://github.com/KingSujeet/Covid-19_Tracker_and_News/blob/master/WhatsApp%20Image%202020-07-14%20at%203.49.42%20PM%20(5).jpeg" width="250">
+
+
+<img src="https://github.com/KingSujeet/Covid-19_Tracker_and_News/blob/master/WhatsApp%20Image%202020-07-14%20at%203.49.42%20PM%20(6).jpeg" width="250">
+
+
+<img src="https://github.com/KingSujeet/Covid-19_Tracker_and_News/blob/master/WhatsApp%20Image%202020-07-14%20at%203.49.42%20PM%20(7).jpeg" width="250">
+
